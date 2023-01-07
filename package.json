@@ -1,0 +1,39 @@
+{
+  "name": "sk-flutter",
+  "displayName": "SK Flutter",
+  "description": "Sic Kode Web Design Flutter Extension Pack",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#3B82F6",
+    "theme": "dark"
+  },
+  "author": {
+    "name": "Sergiu Waxmann",
+    "email": "sergiu@sickode.com"
+  },
+  "publisher": "sickodewebdesign",
+  "repository": "https://github.com/sickodewebdesign/sk-flutter",
+  "version": "1.0.0",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "SK",
+    "Sic Kode",
+    "Sic Kode Web Design",
+    "SK Flutter",
+    "Sic Kode Web Design Flutter Extension Pack"
+  ],
+  "extensionPack": [
+    "dart-code.dart-code",
+    "dart-code.flutter"
+  ],
+  "scripts": {
+    "build": "vsce package",
+    "publish": "vsce publish"
+  }
+}
