@@ -13,7 +13,7 @@
   },
   "publisher": "sickodewebdesign",
   "repository": "https://github.com/sickodewebdesign/sk-flutter",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "MIT",
   "engines": {
     "vscode": "^1.70.0"
@@ -29,8 +29,11 @@
     "Sic Kode Web Design Flutter Extension Pack"
   ],
   "extensionPack": [
+    "nash.awesome-flutter-snippets",
     "dart-code.dart-code",
-    "dart-code.flutter"
+    "dart-code.flutter",
+    "robert-brunhage.flutter-riverpod-snippets",
+    "hirantha.json-to-dart"
   ],
   "scripts": {
     "build": "vsce package",
