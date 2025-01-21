@@ -1,5 +1,9 @@
 # Change Log
 
+## v1.1.2
+
+- Change publisher
+
 ## v1.1.1
 
 - Remove Json to Dart Model
