@@ -1,4 +1,4 @@
-# **Sic Kode Web Design** Flutter Extension Pack
+# **Sic Kode** Flutter Extension Pack
 
 - Awesome Flutter Snippets
 - Dart
